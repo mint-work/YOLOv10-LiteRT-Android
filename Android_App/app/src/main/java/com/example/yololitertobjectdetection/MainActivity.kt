@@ -11,6 +11,7 @@ import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import com.example.yololitertobjectdetection.databinding.ActivityMainBinding
 
+//https://blog.csdn.net/weixin_38739735/article/details/142756388
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var navController: NavController
